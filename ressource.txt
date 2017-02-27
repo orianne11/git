@@ -1,1 +1,1 @@
-https://github.com/codebar/tutorials
+Pour faire un commit il faut : apporter une modification au fichier puis faire git add nom du fichier modifié puis git commit -m message à laisser. Enfin, il faut faire un git push pour mettre les nouveaux éléments sur le dépôt distant (remote repository)
